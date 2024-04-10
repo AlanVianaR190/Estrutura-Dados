@@ -14,13 +14,13 @@ class CalculadoraDeMedia:
 calculadora = CalculadoraDeMedia()
 
 # Adicione as notas
-n1=float(input("Digite a nota: "))
+n1 = float(input("Digite a nota: "))
 calculadora.adicionar_nota(n1)
 
-n2=float(input("Digite a nota: "))
+n2 = float(input("Digite a nota: "))
 calculadora.adicionar_nota(n2)
 
-n3=float(input("Digite a nota: "))
+n3 = float(input("Digite a nota: "))
 calculadora.adicionar_nota(n3)
 
 # Calcule a média
